@@ -10,7 +10,7 @@ return(
   <div className="row text-center">
     <div className="col-sm-4">
       <div className="thumbnail">
-        <img src="https://www.gloriousbuilders.com/wp-content/uploads/2019/10/Lahore-Pakistan.jpg" width="200" height="200" alt="pakistan"/>
+        <img src="http://1.bp.blogspot.com/-kktcPSTOlSY/TdVAV5pFUMI/AAAAAAAAAaM/TFJehqA3WVA/s1600/islamabad.jpg" width="200" height="200" alt="pakistan"/>
         <p><b>pakistan</b></p>
         <p>we have houses built for poor and homeless people built in pakistan</p>
       </div>

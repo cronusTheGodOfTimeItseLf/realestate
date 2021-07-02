@@ -11,20 +11,20 @@ return(
   </div>
   <div className="row">
     <div className="col-sm-4">
-      <div class="panel panel-default text-center">
+      <div className="panel panel-default text-center">
         <div className="panel-heading">
           <h1>help 10 person</h1>
         </div>
         <div className="panel-footer">
           <h3>$200</h3>
           <h4>per month</h4>
-          <button class="btn btn-warning">donate now</button>
+          <button className="btn btn-warning">donate now</button>
         </div>
       </div>
     </div>
     <div className="col-sm-4">
-      <div class="panel panel-default text-center">
-        <div class="panel-heading">
+      <div className="panel panel-default text-center">
+        <div className="panel-heading">
           <h1>help 100 people</h1>
         </div>
         <div className="panel-footer">
